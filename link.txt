@@ -3,3 +3,9 @@
 
 // ScrollTrigger
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+
+// Split-type
+<script src="https://unpkg.com/split-type"></script>
+
+//Draggable Plugin (for scroll)
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/Draggable.min.js"></script>
